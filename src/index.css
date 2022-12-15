@@ -30,7 +30,7 @@ body {
 }
 
 li {
-  width: min-content;
+  width: max-content;
 }
 button {
   border-radius: 8px;
